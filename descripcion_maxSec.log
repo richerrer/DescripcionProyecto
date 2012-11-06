@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2012.10.11)  5 NOV 2012 22:36
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2012.10.11)  5 NOV 2012 23:12
 entering extended mode
 **C:/Users/Ricardo/Documents/GitHub/DescripcionProyecto/descripcion_maxSec.tex
 (C:/Users/Ricardo/Documents/GitHub/DescripcionProyecto/descripcion_maxSec.tex
@@ -399,40 +399,72 @@ LaTeX Font Info:    ... okay on input line 8.
 <max1.png, id=12, 321.2pt x 481.8pt>
 File: max1.png Graphic file (type png)
  <use max1.png>
-Package pdftex.def Info: max1.png used on input line 94.
-(pdftex.def)             Requested size: 150.0pt x 225.0051pt.
+Package pdftex.def Info: max1.png used on input line 95.
+(pdftex.def)             Requested size: 130.0pt x 195.00294pt.
 
 <max2.png, id=13, 321.2pt x 481.8pt>
 File: max2.png Graphic file (type png)
  <use max2.png>
-Package pdftex.def Info: max2.png used on input line 95.
-(pdftex.def)             Requested size: 150.0pt x 225.0051pt.
+Package pdftex.def Info: max2.png used on input line 101.
+(pdftex.def)             Requested size: 140.0pt x 210.00035pt.
 
-<max3.png, id=14, 321.2pt x 481.8pt>
+<max4.png, id=14, 321.2pt x 481.8pt>
+File: max4.png Graphic file (type png)
+ <use max4.png>
+Package pdftex.def Info: max4.png used on input line 107.
+(pdftex.def)             Requested size: 130.0pt x 195.00294pt.
+
+<max3.png, id=15, 321.2pt x 481.8pt>
 File: max3.png Graphic file (type png)
  <use max3.png>
-Package pdftex.def Info: max3.png used on input line 98.
-(pdftex.def)             Requested size: 150.0pt x 225.0051pt.
- [3 <C:/Users/Ricardo/Documents/GitHub/DescripcionProyecto/max1.png> <C:/Users/
-Ricardo/Documents/GitHub/DescripcionProyecto/max2.png> <C:/Users/Ricardo/Docume
-nts/GitHub/DescripcionProyecto/max3.png>]
+Package pdftex.def Info: max3.png used on input line 113.
+(pdftex.def)             Requested size: 130.0pt x 195.00294pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--116
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--116
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--116
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--116
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--116
+
+ []
+
+[3 <C:/Users/Ricardo/Documents/GitHub/DescripcionProyecto/max1.png> <C:/Users/R
+icardo/Documents/GitHub/DescripcionProyecto/max2.png>] [4 <C:/Users/Ricardo/Doc
+uments/GitHub/DescripcionProyecto/max4.png> <C:/Users/Ricardo/Documents/GitHub/
+DescripcionProyecto/max3.png>]
 (C:\Users\Ricardo\Documents\GitHub\DescripcionProyecto\descripcion_maxSec.aux) 
 ) 
 Here is how much of TeX's memory you used:
- 2447 strings out of 493921
- 31792 string characters out of 3147275
+ 2453 strings out of 493921
+ 31859 string characters out of 3147275
  96218 words of memory out of 3000000
- 5742 multiletter control sequences out of 15000+200000
+ 5747 multiletter control sequences out of 15000+200000
  5749 words of font info for 21 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,5n,27p,562b,214s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,6n,27p,562b,263s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pro
 gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program File
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2
 .9/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on descripcion_maxSec.pdf (3 pages, 324287 bytes).
+Output written on descripcion_maxSec.pdf (4 pages, 426047 bytes).
 PDF statistics:
- 31 PDF objects out of 1000 (max. 8388607)
+ 35 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
